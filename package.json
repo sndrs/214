@@ -1,0 +1,19 @@
+{
+  "name": "this-package-exports-the-number-214-and-its-name-is-also-two-hundred-and-fourteen-characters-long-which-is-the-longest-name-currently-allowed-by-the-npm-registry-to-see-how-a-name-that-long-would-look-if-you-did-it",
+  "version": "2.1.4-0",
+  "description": "This package exports the number `214` and it's name is also two hundred and fourteen characters long which is the longest name currently allowed by the npm registry to see how a name that long would look if you did it.",
+  "homepage": "https://github.com/sndrs/214#readme",
+  "bugs": {
+    "url": "https://github.com/sndrs/214/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sndrs/214.git"
+  },
+  "license": "ISC",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'tests passed'"
+  }
+}
